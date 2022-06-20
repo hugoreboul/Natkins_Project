@@ -1,0 +1,1 @@
+<h1>Refaire l'accueil à partir des maquettes Figma :)</h1>
